@@ -12,14 +12,19 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🎮 Django Game API
 - A Django-based web application with REST-style API for game & developer management  
 - Supports CRUD operations and browser-based interaction  
 - Tech: Django, Python, SQLite  
+👉 [View Project](https://github.com/cute6v/django-game-api)
 
-👉 <a href="https://github.com/cute6v/django-game-api">View Project</a>
+### 🏛 AI Cache Saver – Team Project
+- Participated as a team member in a course project focused on full-stack AI application development  
+- Full-stack app for storing & retrieving AI-generated images using vector embeddings  
+- Tech: Python, FastAPI, React, TypeScript, PostgreSQL, Docker  
+👉 [View Team Repository](https://github.com/Jack-Yong-Teoh/ai-cache-saver)
 
 ---
 
