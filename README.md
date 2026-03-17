@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm CHEN XINYAN (Veronica)</h1>
-<h3 align="center">Software Engineering Student | AI & Backend Enthusiast</h3>
+<h3 align="center">Master's Student in Software Engineering | AI & Backend Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-year Software Engineering student @ Universiti Malaya  
+- 🎓 Master's student in Software Engineering @ University of Malaya  
 - 🧠 Currently working on my dissertation: *AI-Driven Speech Interaction for Language Tutoring*  
 - 💡 Interested in AI systems, backend development & software architecture  
-- 📫 Email: cute6v@gmail.com  
+- 📫 Email: cute6v@gmail.com
 
 ---
 
