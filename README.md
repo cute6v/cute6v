@@ -30,17 +30,17 @@
 
 ## 🧠 Research & Publications
 
-### 📄 KindMind: Conversational Tutoring Robot
+### 📄 KindMind: Implementing Politeness and Fairness in a Conversational TutoringRobot
 - Accepted and published at **ICETC 2025**  
 - Focus: fairness & politeness in AI tutoring systems  
 - Role: Co-author  
 
-### 📄 Energy-Efficient AI Image Generation
+### 📄 Energy-Efficient AI Image Generation through Selective Similarity-Aware Caching
 - Submitted to **Cluster Computing (Springer, SCIE Q4)**  
 - Status: Under review (passed technical check)  
 - Focus: similarity-aware caching for AI efficiency  
 
-### 📄 Agile Contract Management (SLR)
+### 📄 Exploring the Complexities of Agile Contract Management: A Systematic Review
 - First-author systematic literature review  
 - Topic: challenges in Agile contract management  
 
